@@ -1,0 +1,15 @@
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\bin\Debug\net6.0\exam of first quater.exe
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\bin\Debug\net6.0\exam of first quater.deps.json
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\bin\Debug\net6.0\exam of first quater.runtimeconfig.json
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\bin\Debug\net6.0\exam of first quater.dll
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\bin\Debug\net6.0\exam of first quater.pdb
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.csproj.AssemblyReference.cache
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.AssemblyInfoInputs.cache
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.AssemblyInfo.cs
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.csproj.CoreCompileInputs.cache
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.dll
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\refint\exam of first quater.dll
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.pdb
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\exam of first quater.genruntimeconfig.cache
+C:\Users\gusel\Dropbox\Обучение на программе Разработчик\first quater\exam of first quater\obj\Debug\net6.0\ref\exam of first quater.dll
